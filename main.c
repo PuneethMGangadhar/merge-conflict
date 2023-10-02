@@ -6,6 +6,7 @@ Initial Function()
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Initial Security()
 {
  //Sample Code
@@ -20,4 +21,11 @@ feature1()
 
 applied security patch on feature branch
 
+=======
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+applying securtiy patch in feature2
+>>>>>>> feature2
 }
